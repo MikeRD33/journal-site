@@ -39,9 +39,10 @@ h1,h2,h3,h4,p{
 header{
     font-family: "Roboto", serif;
     display: flex;
+    width: 90%;
+    margin: 0 auto;
     justify-content: space-between;
     align-items: center;
-    margin: 0 1.25em;
     background-color: white;
 }
 
