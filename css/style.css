@@ -30,8 +30,6 @@ ul{
     font-weight: 600;
 }
 
-
-
 h1,h2,h3,h4,p{
     margin: 0;
 }
@@ -86,8 +84,17 @@ footer p {
     font-size: 0.9rem;
 }
 
+ul a{
+    color: #151515;
+}
+
+.hero-container a:hover {
+    color: beige;
+}
+
 a{
     text-decoration: none;
+    color: white;
 }
 
 a:visited{
